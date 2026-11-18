@@ -8,9 +8,12 @@ I have a flair for coding and database management. I thrive on tackling complex 
 Major in Web development, UI/UX
 
 ## 📜 Certifications
-- [NoSQL and DBaaS 101](YOUR_CERTIFICATE_LINK_HERE)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](YOUR_BADGE_LINK_HERE)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](YOUR_BADGE_LINK_HERE)
+-TESDA Computer Systems Servicing (CSS) NC II
+-TESDA Visual Graphic Design (VGD) NC III
+
+## 🎤 Seminars & Trainings
+- [Seminar Title](YOUR_LINK_HERE) | Organizer | Month Year
+- [Seminar Title](YOUR_LINK_HERE) | Organizer | Month Year
 
 ## 🛠️ Skill Sets
 - **Programming:** Python, Java, JavaScript

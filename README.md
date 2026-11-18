@@ -8,8 +8,8 @@ I have a flair for coding and database management. I thrive on tackling complex 
 Major in Web development, UI/UX
 
 ## 📜 Certifications
--TESDA Computer Systems Servicing (CSS) NC II
--TESDA Visual Graphic Design (VGD) NC III
+- TESDA Visual Graphic Design (VGD) NC III
+- TESDA Computer Systems Servicing (CSS) NC II
 
 ## 🎤 Seminars & Trainings
 - [Seminar Title](YOUR_LINK_HERE) | Organizer | Month Year

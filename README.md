@@ -8,12 +8,12 @@ I have a flair for coding and database management. I thrive on tackling complex 
 - Major in Web development, UI/UX
 
 ## 📜 Certifications
-- TESDA Visual Graphic Design (VGD) NC III
-- TESDA Computer Systems Servicing (CSS) NC II
+- TESDA Computer Systems Servicing (CSS) NC II | National Certificate II
 
 ## 🎤 Seminars & Trainings
-- [Seminar Title](YOUR_LINK_HERE) | Organizer | Month Year
-- [Seminar Title](YOUR_LINK_HERE) | Organizer | Month Year
+- AI-TECH FORWARD: ADVANCING INNOVATION ACROSS ENGINEERING, INFORMATION TECHNOLOGY, & MANAGEMENT SYSTEMS | PUP Sta. Mesa | 2026
+- CERTIFICATE OF PARTICIPATION IN BASIC WEB DEVELOPMENT WORKSHOP | Zuitt Coding Bootcamp | 2025
+- CERTIFICATE OF PARTICIPATION IN DATA VISUALIZATION | Zuitt Coding Bootcamp | 2025
 
 ## 🛠️ Skill Sets
 - **Programming:** Python, Java, JavaScript
